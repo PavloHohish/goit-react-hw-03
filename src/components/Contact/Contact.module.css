@@ -1,8 +1,10 @@
 .contactInfo {
-  min-width: 120px;
+  display: flex;
+  align-items: baseline;
+  gap: 4px;
 }
 
-.contactInfoFirst {
+.contactName {
   margin-bottom: 4px;
 }
 
